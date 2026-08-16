@@ -11,15 +11,18 @@ let rich = true;
 
 let orangePrice = 20;
 let grapePrice = parseInt('10');
-console.log(orangePrice+grapePrice);
+//console.log(orangePrice+grapePrice);
 
 let guavaPrice = 10;
 let applePrice = parseFloat(0.2);
-console.log(applePrice+grapePrice);
+//console.log(applePrice+grapePrice);
 
 let first = 0.1;
 let second = 0.2;
 var total = (first+second);
-console.log(total);
+//console.log(total);
 
-console.log(total.toFixed(2));
+//console.log(total.toFixed(2));
+
+
+

@@ -6,7 +6,15 @@
 
 let guava = 40;
 let apple = 250;
-console.log (guava>apple);
-console.log (guava<apple);
-console.log (5>=10);
-console.log (5<=10);
+//console.log (guava>apple);
+//console.log (guava<apple);
+//console.log (5>=10);
+//console.log (5<=10);
+
+//use of == and === :
+
+//console.log (10==10);
+//console.log (10=='10');
+//console.log (10==='10');
+//console.log (10!==10);
+

@@ -41,5 +41,37 @@
         //console.log("no entry voutik bari");
     //}
 
-//} else {
+//} 
+//else {
     //console.log("no entry mala");
+//}
+
+//const height = 61;
+//const salary = 25000;
+//const isBCS = true;
+//const hasCar = false;
+
+//if (salary > 20000) {
+//    console.log("su-patro");
+//}
+//
+//else {
+//    console.log("onno-patro")
+//}
+
+
+//if (salary > 20000 || height > 72 || isBCS == true) {
+//    console.log("AHO BABA KOBUL");
+//}
+//
+//else {
+//    console.log("VAG TOI MOKBUL")
+//}
+
+//if (salary > 20000 && height > 72 && isBCS == true) {
+//    console.log("AHO BABA KOBUL");
+//}
+//
+//else {
+//    console.log("VAG TOI MOKBUL")
+//}

@@ -75,3 +75,11 @@
 //else {
 //    console.log("VAG TOI MOKBUL")
 //}
+
+//massive use :
+
+//if ((salary>25000 && hasCar==true) || isBCS==true);
+//{console.log("raji");}
+//
+//if ((salary>25000 || hasCar==true) && isBCS==true);
+//{console.log("yes");}

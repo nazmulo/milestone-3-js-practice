@@ -42,3 +42,37 @@
 //    num++;
 //
 //}
+
+//for loop;
+
+//for (let num = 0; num < 5; num++) {
+//    console.log(num);
+//}
+
+//even:
+//for (let num = 0; num <= 20; num=num+2){
+//    console.log(num);
+//}
+
+//odd:
+//for (let num = 1; num <= 20; num=num+2){
+//    console.log(num);
+//}
+
+//increamental:
+//for (let num = 0; num <= 10; num++){
+//    console.log(num);
+//}
+
+//deccrimental:
+//for (let num = 10; num >= 0; num--){
+//    console.log(num);
+//}
+
+//decrimental while loop:
+
+//let  n = 10;
+//while (n>=0) {
+//    console.log(n);
+//    n--;
+//}

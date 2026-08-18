@@ -30,14 +30,45 @@
 
 //2 space thakle:
 
-const drink = "water";
+//const drink = "water";
+//
+//const liquid = "   water";
+//
+//if (drink.trim() === liquid.trim()) {
+//    console.log("good");
+//} 
+//
+//else {
+//    console.log("bad");
+//}
 
-const liquid = "   water";
+//slice-string :
 
-if (drink.trim() === liquid.trim()) {
-    console.log("good");
-} 
+//const address = 'anderkilla';
+//console.log(address.slice(2,5));
 
-else {
-    console.log("bad");
-}
+//split:
+//const sentence = "I am a student";
+//
+//console.log(sentence.split(''));
+
+//join/conacat : 
+
+//const first = 'Abid' ;
+//const last = 'Nabid' ;
+//
+//const fullname = first.concat(last);
+//console.log(fullname);
+
+//reverse - string :
+
+//const sentence = "I am a student";
+//
+//let reverse = '';
+//
+//for (const letter of sentence) {
+//    reverse = letter + reverse;
+//}
+//
+//console.log(reverse);
+

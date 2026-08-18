@@ -48,7 +48,12 @@
 
 //use of concat:
 
-let array1 = ["apple","goggle","openai"];
-let array2 = ["LV","MK","HV"];
+//let array1 = ["apple","goggle","openai"];
+//let array2 = ["LV","MK","HV"];
+//
+//console.log(array1.concat(array2));
 
-console.log(array1.concat(array2));
+//use os slice and splice:
+//let array = [1,2,3,4,5,6,7];
+//console.log(array.splice(5,2));
+//console.log(array.slice(1,5));

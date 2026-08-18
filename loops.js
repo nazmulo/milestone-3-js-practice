@@ -76,3 +76,19 @@
 //    console.log(n);
 //    n--;
 //}
+
+//break:
+//for (let num = 0; num <15; num++){
+//    console.log(num);
+//    if (num>=5){
+//        break;
+//    }
+//    }
+
+//do loop:
+//let num = 10;
+//
+//do {
+//    console.log(num);
+//    num++;
+//} while (num < 5);

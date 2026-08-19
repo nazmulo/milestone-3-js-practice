@@ -57,3 +57,14 @@
 //let array = [1,2,3,4,5,6,7];
 //console.log(array.splice(5,2));
 //console.log(array.slice(1,5));
+
+//const friends = ['Elon', 'Bill', 'Mark', 'Waren'];
+//
+//for (let i = 0; i < friends.length; i++) {
+//    console.log(i);
+//    console.log(friends[i]);
+//}
+
+//const numbers = [1,2,3,4,5,6,7];
+//numbers.reverse();
+//console.log(numbers);

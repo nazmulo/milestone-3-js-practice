@@ -15,18 +15,18 @@
 //console.log(values);
 //
 
-const collage = {
-    name: "vnc",
-    class: ['10', '11', '12'],
-    event: ['hdgd', 'hdfjh', 'jhfjh'],
-    unique: {
-        color: "blue",
-        result: {
-            gpa: 5,
-            merit: 'top'
-        }
-    }
-};
+//const collage = {
+//    name: "vnc",
+//    class: ['10', '11', '12'],
+//    event: ['hdgd', 'hdfjh', 'jhfjh'],
+//    unique: {
+//        color: "blue",
+//        result: {
+//            gpa: 5,
+//            merit: 'top'
+//        }
+//    }
+//};
 
 //console.log(collage.name);
 

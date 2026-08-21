@@ -121,3 +121,20 @@
 //
 //evenSizeString('Dhaka');
 //evenSizeString('fake');
+
+
+ //bolean parameter:
+ 
+ //function doubleOnTriple (number,doDouble) {
+ //   if (doDouble === true) {
+ //       const result = number*2;
+ //       return result;
+ //   }
+ //   else {
+ //       const result = number*3;
+ //       return result;
+ //   }
+ //}
+//
+ //console.log(doubleOnTriple(5,true));
+ //console.log(doubleOnTriple(5,false));

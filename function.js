@@ -138,3 +138,12 @@
 //
  //console.log(doubleOnTriple(5,true));
  //console.log(doubleOnTriple(5,false));
+
+ //array paremeter :
+
+ //function numberOfElements (number) {
+ //   const ten = number.length;
+ //   return ten;
+ //}
+ //const num = numberOfElements([34,745,36,865,357,74,56,3]);
+ //console.log(num);

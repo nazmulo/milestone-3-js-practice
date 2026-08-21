@@ -42,3 +42,19 @@
 //}
 //const output = tenTimes(5);
 //console.log(output);
+
+//short function:
+
+//function add (price1,price2){
+//    const total = (price1+price2);
+//    return total;
+//
+//}
+//const bill = add (5,80);
+//console.log(bill);
+
+//function add (price1, price2) {
+//    return (price1+price2);
+//}
+//const bill = add (75,6);
+//console.log (bill);

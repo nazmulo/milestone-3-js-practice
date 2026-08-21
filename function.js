@@ -95,3 +95,13 @@
 //
 //console.log(isEven(5));
 //console.log(isEven(10));
+
+
+//string-in function:
+
+//function evenSizeString (str) {
+//    const size = str.length;
+//    console.log(size);
+//}
+//evenSizeString('Dhaka');
+//evenSizeString('fake');

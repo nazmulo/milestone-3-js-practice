@@ -160,3 +160,31 @@
  //const numbers = [54,62,12,6];
  //const sum = sumOfNumbers(numbers);
  //console.log(sum);
+
+ //return all the even number:
+
+ //function evenNumberOnly (numbers) {
+ //   const evens = [];
+ //   for(const number of numbers) {
+ //       
+ //   }
+ //}
+
+// function sumOfEvenNumbers(numbers) {
+//    let sum = 0;
+//
+//    for (const number of numbers) {
+//        if (number % 2 === 0) {
+//            console.log(number);
+//            sum = sum + number;
+//        }
+//    }
+//
+//    return sum;
+//  }
+//
+// const numbers = [54, 62, 13, 6];
+//
+// const sum = sumOfEvenNumbers(numbers);
+//
+// console.log(sum);

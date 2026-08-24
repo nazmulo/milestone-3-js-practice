@@ -147,3 +147,16 @@
  //}
  //const num = numberOfElements([34,745,36,865,357,74,56,3]);
  //console.log(num);
+
+ //function sumOfNumbers (numbers) {
+ //   let sum = 0;
+ //   for (const number of numbers) {
+ //       console.log (numbers);
+ //       sum = sum + number;
+ //   }
+ //   return sum;
+//
+ //}
+ //const numbers = [54,62,12,6];
+ //const sum = sumOfNumbers(numbers);
+ //console.log(sum);
